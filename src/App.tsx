@@ -13,7 +13,7 @@ function GuestGreeting(_props: any) {
       chainId={1}
       connectorOptions={{ bridge: 'https://bridge.walletconnect.org' }}
       onConnectorInitialized={(connector) => console.log(connector)}
-    />;
+    />
     </div>
 }
 
