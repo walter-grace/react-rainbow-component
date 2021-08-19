@@ -1574,10 +1574,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@rainbow-me/rainbow-button@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@rainbow-me/rainbow-button/-/rainbow-button-1.0.0.tgz#8a3c132c8844b33c4005719f0c2edc6004b7a9e8"
-  integrity sha512-wb1iumVN4tJyuTWFM2w2s90R+SDe41NfbPYm22TZpwBpGwMvgDi0yHO/7jjwA7KVM6m1gcSq8NsqxYE3EjT2Dg==
+"@rainbow-me/rainbow-button@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@rainbow-me/rainbow-button/-/rainbow-button-1.0.1.tgz#58d4d0a5869bddc1d32c42897a2f930daf7df2dd"
+  integrity sha512-iPQiYGqGUnNjZlqdiPE7MPJBbwXAJzySP5xH2VqGdRua2J4jrfkoriPGmAHfq47dD51lMAURQg4+kFIU1QyZkw==
   dependencies:
     "@walletconnect/browser-utils" "^1.5.4"
     framer-motion "^4.1.17"
