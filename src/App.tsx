@@ -24,14 +24,11 @@ function Greeting(props: { isLoggedIn: any; }) {
   }
   return <GuestGreeting />;
 }
-  // Try changing to isLoggedIn={true}:
   
   function App() {
     return (
       <div className="App">
       <Greeting isLoggedIn={false} />
-     
-
     </div>
   );
 }
